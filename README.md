@@ -3,23 +3,16 @@ MERN Stack Booking App
 Bu proje, MERN (MongoDB, Express, React, Node.js) yığını kullanılarak yapılmış bir booking uygulamasıdır. Tailwind CSS kütüphanesi de UI tasarımı için kullanılmıştır.
 
 Yükleme
-GitHub'da bu depoyu klonlayın.
-sh
-Copy code
+
 git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
 Proje dizinine gidin ve bağımlılıkları yükleyin.
-sh
-Copy code
+
 cd REPO_ADI
 npm install
-Uygulamayı çalıştırın.
-sh
-Copy code
+
 npm start
-Veya geliştirme modunda çalıştırmak için:
-sh
-Copy code
 npm run dev
+
 Kullanım
 Uygulama, http://localhost:4000 adresinde çalışır.
 
