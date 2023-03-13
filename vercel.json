@@ -1,5 +1,5 @@
 {
-    "buildCommand": "cd ./client/ && vite build",
+    "buildCommand": "cd client && vite build",
     "outputDirectory": "client/dist",
     "framework": "vite",
     "rewrites": [
